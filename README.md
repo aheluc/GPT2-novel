@@ -1,3 +1,5 @@
+It aims to train a GPT2-novel, capable of generating sentences in the style of light novels and sci-fin novels.
+
 Place the GPT-2 weights and code in the 'model' folder.
 
 Place the ChatGLM2 weights and code in the 'chatglm' folder.
